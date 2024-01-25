@@ -2,7 +2,6 @@
     /* border: 1px solid black; */
     width: 60%;
     display: grid;
-    padding: 200px;
     grid-template-columns: repeat(4,1fr);
     grid-template-rows: 150px 120px 120px 150px;
     row-gap: 15px;
